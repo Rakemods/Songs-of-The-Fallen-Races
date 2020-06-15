@@ -1,16 +1,16 @@
 {
 	"name": "Songs-of-The-Fallen-Races",
-	"description": "",
-	"changeNote": "",
+	"description": "A Songs of the Fallen Race Mod\nInspired by Malazan Book of the Fallen series by Steven Erickson\nCommissioned and managed by By Rake\nCreated by ArsGothica\nid=2129044833\n\n\nHair, Eyebrows, and Facepaint from images are from the amazing RA mod\nMade with compatibility of other mods in mind so without those mods you may see some duplicate head slots. Unfortunately, due to the nature of the way Conan handles the character creation screen there is no way around this that i am curently aware of.\n\nCompatibility:\nLoad before AoC\n- Male head slots 5-10 and 20-21\n- Female head slots  8-12\nLoad Before Emberlight\n- Female head slots 24+\n\nSotf Races uses head slots\nMale Head Slots 11-19 and 22-23\nfemale head slots  13-23\n\n\nWill create patch to load beards with custom faces\nUI changes overwritten by Other mods that modify the same\n\n\n\nBe sure to check out these recommended mods\nEctomongers Set Creatures - https://steamcommunity.com/sharedfiles/filedetails/?id=190351847\nEctomongers Yog Creatures - https://steamcommunity.com/sharedfiles/filedetails/?id=1908075921\nRp Aesthetics - https://steamcommunity.com/sharedfiles/filedetails/?id=1542041983\n\n\n\n\nDiscord\nhttps://discord.gg/4RbcudC",
+	"changeNote": "updated for full compatibility with AoC heads",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 0,
-	"versionMinor": 0,
-	"versionBuild": 0,
+	"versionMinor": 1,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamPublishedFileId": "2129044833",
+	"steamVisibility": 0,
 	"folderName": "Songs-of-The-Fallen-Races",
-	"revisionNumber": 221995,
-	"snapshotId": 25124
+	"revisionNumber": 229161,
+	"snapshotId": 25546
 }
