@@ -1,7 +1,7 @@
 {
 	"name": "Songs-of-The-Fallen-Races",
 	"description": "A Songs of the Fallen Race Mod\nInspired by Malazan Book of the Fallen series by Steven Erickson\nCommissioned and managed by By Rake\nCreated by ArsGothica\nid=2129044833\n\n\nHair, Eyebrows, and Facepaint from images are from the amazing RA mod\n\nCompatibility:\n\nLoad last to get beards on custom heads and custom UI changes\nIs compatible with all mods\nPippi customise commands show the heads as invisible. \nUse Shift+M with iQoL or  regular character creation\nSotf Races uses head slots\nMale Head Slots 666xx\nfemale head slots  666xx\n\n\n\nBe sure to check out these recommended mods\nEctomongers Set Creatures - https://steamcommunity.com/sharedfiles/filedetails/?id=190351847\nEctomongers Yog Creatures - https://steamcommunity.com/sharedfiles/filedetails/?id=1908075921\nRp Aesthetics - https://steamcommunity.com/sharedfiles/filedetails/?id=1542041983\n\n\n\n\nDiscord\nhttps://discord.gg/4RbcudC",
-	"changeNote": "Siptah update attempt 2",
+	"changeNote": "Siptah update attempt 3\nrebuilt face materials",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 2,
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "2129044833",
 	"steamVisibility": 0,
 	"folderName": "Songs-of-The-Fallen-Races",
-	"revisionNumber": 245789,
-	"snapshotId": 26426
+	"revisionNumber": 255795,
+	"snapshotId": 26931
 }
